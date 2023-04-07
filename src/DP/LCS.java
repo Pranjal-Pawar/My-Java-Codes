@@ -73,6 +73,7 @@ public class LCS {
         return dp[0][0];
 
     }
+    //main function
     public static  void main (String args[]){
        String str1="bedgmc" ;
        String str2="abdfglc";
